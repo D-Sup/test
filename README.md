@@ -1,3 +1,3 @@
 # test
 
-*:bulb: Feat:*
+`:bulb: Feat:`
