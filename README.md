@@ -18,3 +18,4 @@
     <td> AddProductPage.jsx <br /> ProfileModificationPage.jsx <br /> ProfileSettingPage.jsx <br /> UploadPage.jsx </td>
   </tr>
 </table>
+<caption>설명</caption>
